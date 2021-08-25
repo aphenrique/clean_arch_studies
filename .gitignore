@@ -44,3 +44,10 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+
+# codigo nativo
+/ios
+/android
+/web
+/windows
